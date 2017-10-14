@@ -4,8 +4,8 @@ class WelcomeController < ApplicationController
 
   end
 
-  def about 
+  def about
     render :text => 'About the Website'
-  end 
+  end
 
-end 
+end
